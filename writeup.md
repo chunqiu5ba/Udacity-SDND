@@ -34,7 +34,7 @@ Next, I did gaussian smoothing, and canny edge detection.
 ![alt text][image3]
 Then masked out the unwanted areas with a four sided polygon; 
 ![alt text][image4]
-Run Hough Treansform on edge detected image is the next step
+Run Hough Transform on edge detected image is the next step
 ![alt text][image5]
 Finally combine the line image with its oringinal footage
 ![alt text][image6]
